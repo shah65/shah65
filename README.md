@@ -1,12 +1,30 @@
-- 👋 Hi, I’m shah faisal
-- 👀 I’m interested in  Programing,trading,Algorithms,DataStructures,ProblemSolving,ComplexThings,etc
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ctech8868@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Shah Faisal 👋
 
-<!---
-shah65/shah65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Engineering student passionate about building scalable systems and solving complex problems.
+
+## 🚀 About Me
+- 🎓 Currently studying **Software Engineering**
+- 💻 Focused on **Full-Stack Development**, **Blockchain**, and **Algorithms**
+- 🌱 Always learning and exploring cutting-edge technologies
+- 📫 Reach me at **ctech8868@gmail.com**
+
+## 🛠️ Tech Stack
+![MongoDB] 
+![Express.js] 
+![React] 
+![Node.js] 
+![Hyperledger Fabric] 
+![JavaScript] 
+
+## 🔭 Final Year Project
+Building a **Blockchain-based solution** using **MERN Stack** + **Hyperledger Fabric** —
+a decentralized application focused on transparency, security, and real-world impact.
+
+## 💡 Interests
+- ⛓️ Blockchain & Decentralized Systems
+- 📊 Trading & Financial Algorithms
+- 🧠 Data Structures & Problem Solving
+- 🔧 System Design & Complex Engineering
+
+## 🤝 Open to Collaborate On
+Full-stack projects · Blockchain/Web3 · Algorithmic challenges · Open Source
