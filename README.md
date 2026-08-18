@@ -1,22 +1,22 @@
  🚀 Hi, I'm Shah Faisal
-Software Engineer | Full-Stack Developer | Blockchain Enthusiast
+Software Engineer | Full-Stack Developer | Blockchain Engineer | SmartContract Developer
 
 👨‍💻 About Me
-Software Engineering student with 2.5+ years of hands-on experience building scalable systems and solving complex and real world problems.
+Software And Blockchain Engineering  with 2.5+ years of hands-on experience building scalable systems and solving complex and real world problems.
 
 🎓 BS in Computer Science  
 
 💼 Experience: 2.5+ Years of professional development
 
-🧠 Passionate about System Design, Microservices, and Decentralized Technologies
+🧠 Passionate about System Design,System Infrastructure and Decentralized Technologies
 
 🌱 Always exploring cutting-edge tech: Web3.0, Blockchain, DevOps
 
-📫 Reach me at: ctech8868@gmail.com
+📫 Reach me at: shahfaisal.bcdev@gmail.com
 
 🛠️ Core Skills
 Backend Development
-Node.js | Express.js | Spring Boot | Solidity
+Node.js | Express.js | Spring Boot | Rust | Solana | Solidity
 
 Microservices Architecture
 
@@ -36,7 +36,7 @@ State Management (Redux/Context)
 Modern UI/UX Practices
 
 Blockchain & Web3
-Solidity Smart Contracts
+Rust  Smart Contracts
 
 Web3.0 Concepts & Development
 
@@ -60,7 +60,7 @@ Docker (Containerization)
 
 Nginx (Web Server & Reverse Proxy)
 
-GitHub Actions (CI/CD)
+ AWS Cloud platform
 
 Load Balancer Configuration
 
@@ -73,7 +73,7 @@ Java (Spring Boot)
 
 Python
 
-Solidity
+Rust
 
 SQL
 
@@ -92,7 +92,7 @@ Built with MERN Stack + Hyperledger Fabric — a secure, transparent solution fo
 🤝 Open to Collaborate On
 Full-stack web applications (MERN, Spring Boot)
 
-Blockchain / Web3 projects (DeFi, Smart Contracts, DApps)
+Blockchain / Web3 projects (DeFi, Smart Contracts, DApps,Blockchain infrastructure)
 
 Algorithmic trading & financial systems
 
